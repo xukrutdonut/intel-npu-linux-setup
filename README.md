@@ -251,5 +251,6 @@ Este repositorio contiene documentación y scripts. El driver NPU Intel está ba
 ## 🙏 Créditos
 
 - Driver NPU: Intel Corporation
-- Compilación y optimización: Documentado en 2026-01-31
+- Compilación y optimización: [@xukrutdonut](https://github.com/xukrutdonut)
+- Documentado: 2026-01-31
 - Sistema: Arch Linux con kernel 6.17.0-8-generic
