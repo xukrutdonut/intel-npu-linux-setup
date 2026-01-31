@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+openvino-genai-env/
+*.egg-info/
+
+# Modelos descargados
+tinyllama-npu/
+models/
+
+# Logs
+*.log
+build*.log
+
+# Temporal
+/tmp/
+
+# IDE
+.vscode/
+.idea/
+
+# Sistema
+.DS_Store
+*~
+
+# Memory (privado)
+memory/
+MEMORY.md
+HEARTBEAT.md
